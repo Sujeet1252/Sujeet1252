@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋, I'm Sujeet Goswami<br><br>🎓 MCA Student passionate about Data Science, Python, and Software Development.<br><br>💻 Currently learning Python, NumPy, Pandas, Data Visualization, and Machine Learning through hands-on projects.<br><br>🚀 Building projects daily and sharing my learning journey on GitHub.<br><br>📊 Interested in Data Analytics, Machine Learning, and Full-Stack Development.<br><br>📫 Reach me at: [sujeetgoswami153@gmail.com](mailto:sujeetgoswami153@gmail.com)<br>
+# Hi there 👋, I'm Sujeet Goswami<br><br>🎓 MCA Student passionate about Data Science, Python, and Software Development.<br><br>💻 Currently learning Python, NumPy, Pandas, Data Visualization, and Machine Learning through hands-on projects.<br><br>🚀 Building projects daily and sharing my learning journey on GitHub.<br><br>📊 Interested in Data Analytics,Data Science, Machine Learning, and Full-Stack Development.<br><br>📫 Reach me at: [sujeetgoswami153@gmail.com](mailto:sujeetgoswami153@gmail.com)<br>
 
 
 ## 🌐 Socials:
