@@ -62,25 +62,23 @@ I enjoy learning by building practical projects and documenting my progress on G
 
 ## 🚀 Featured Projects
 
-### 🏦 Loan Approval Prediction
+### 🏦 Credit Risk Prediction System
 
-Machine Learning project focused on predicting loan approval using applicant and financial information.
+Machine Learning project focused on predicting credit risk using applicant and financial information.
 
 **Technologies:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
 
-🔗 [View Project](https://github.com/Sujeet1252)
+🔗 [View Project](https://github.com/Sujeet1252/60-Days-Data-Science-Challenge/tree/main/Day44_Credit_Risk_Prediction_System)
 
----
 
-### 🛒 E-Commerce Data Analysis
+### 👨‍💼 Employee Salary Prediction & Analytics
 
-Exploratory Data Analysis project to discover sales patterns, customer behavior and business insights.
+End-to-end Data Science project focused on salary prediction and analytical insights using machine learning.
 
-**Technologies:** Python • Pandas • NumPy • Matplotlib • Seaborn
+**Technologies:** Python • Pandas • NumPy • Scikit-learn • Data Visualization
 
-🔗 [View Projects](https://github.com/Sujeet1252)
+🔗 [View Project](https://github.com/Sujeet1252/60-Days-Data-Science-Challenge/tree/main/Employee_Salary_Prediction_And_Analytics_Platform)
 
----
 
 ### 📊 Data Science Learning Journey
 
