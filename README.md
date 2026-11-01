@@ -93,25 +93,70 @@ Real-World Data Science Projects
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
-### 🏦 Credit Risk Prediction System
+### 🏠 1. House Price Prediction
 
-A Machine Learning project focused on predicting credit risk from applicant and financial information.
+An end-to-end Machine Learning project that predicts house prices based on property features using a trained regression model.
 
-**Technologies:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
+**Key Features:**
 
-🔗 [View Project](https://github.com/Sujeet1252/60-Days-Data-Science-Challenge/tree/main/Day44_Credit_Risk_Prediction_System)
+- Data Cleaning and Exploratory Data Analysis
+- Feature Engineering and Data Preprocessing
+- Machine Learning Model Training
+- Model Evaluation and Prediction
+- Interactive Streamlit Web Application
+- Cloud Deployment using Streamlit Community Cloud
+
+**Technologies:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Streamlit
+
+🔗 **[Live Demo – House Price Prediction](https://property-price-predictor-app.streamlit.app)**
+
+📂 **[View Source Code](https://github.com/Sujeet1252/60-Days-Data-Science-Challenge/tree/main/Day_56_Streamlit_ML_Application)**
 
 ---
 
-### 👨‍💼 Employee Salary Prediction & Analytics
+### 🛍️ 2. AI E-Commerce Customer Intelligence & Recommendation System
 
-An end-to-end Data Science project focused on salary prediction and analytical insights using Machine Learning.
+An end-to-end Data Science project that analyzes customer purchasing behaviour, identifies customer segments, predicts repeat purchases, and recommends products.
 
-**Technologies:** Python • Pandas • NumPy • Scikit-learn • Data Visualization
+**Key Features:**
 
-🔗 [View Project](https://github.com/Sujeet1252/60-Days-Data-Science-Challenge/tree/main/Day45_Employee_Salary_Prediction_And_Analytics_Platform)
+- Customer Behaviour Analysis
+- RFM Analysis and Customer Segmentation
+- Repeat Purchase Prediction using Machine Learning
+- Product Recommendation Engine
+- Interactive Business Analytics Dashboard
+- CSV Data Export
+- Streamlit Web Application
+
+**Technologies:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Joblib • Streamlit
+
+🔗 **[Live Demo – ShopSense AI](https://shopsense-ecommerce-ai.streamlit.app)**
+
+📂 **[View Source Code](https://github.com/Sujeet1252/AI-E-Commerce-Customer-Intelligence-Recommendation-System)**
+
+---
+
+### ✈️ 3. British Airways Customer Booking Prediction
+
+A Machine Learning classification project focused on predicting whether customers complete their flight bookings.
+
+**Technologies:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
+
+📂 **[View Project](https://github.com/Sujeet1252/British-Airways-Customer-Booking-Prediction)**
+
+---
+
+### 📊 4. IT Support Performance Analysis – Power BI
+
+An interactive Business Intelligence dashboard for analyzing IT support performance, resolution time, customer satisfaction, and operational metrics.
+
+**Technologies:** Power BI • Excel • Power Query • DAX
+
+📂 **[View Project](https://github.com/Sujeet1252/IT-Support-Performance-Analysis---Power-BI)**
 
 ---
 
